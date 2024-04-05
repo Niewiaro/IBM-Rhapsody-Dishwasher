@@ -12,15 +12,20 @@
 			<_id type="a">GUID d2c86a35-518b-414a-9c7b-17897c3e2485</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Default</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<_modifiedTimeWeak type="a">4.5.2024::9:3:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.5.2024::9:3:12</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<weakCGTime type="a">4.5.2024::9:3:12</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_defaultComposite type="s">GUID 3e4652a9-2669-4a95-8cb1-08b906795cb4</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 3e4652a9-2669-4a95-8cb1-08b906795cb4</value>
+				<value>GUID 767ff659-38d8-4f39-be99-206009a4b50d</value>
+				<value>GUID 913c53fc-baf7-4c56-b88f-2a817d91d974</value>
+				<value>GUID 9a2ae37d-163e-4a04-9c85-08cfdaba4da4</value>
+				<value>GUID 9f888fe2-d1d2-4e9c-8fa8-5a490682f128</value>
 			</AggregatesList>
 		</ISubsystem>
 		<IClass type="e">
@@ -28,7 +33,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -37,6 +42,78 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID 767ff659-38d8-4f39-be99-206009a4b50d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Wash Dishes</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.5.2024::9:2:59</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<UseCaseStereoTypes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCaseStereoTypes>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		<IUseCase type="e">
+			<_id type="a">GUID 913c53fc-baf7-4c56-b88f-2a817d91d974</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Service Dishwasher</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.5.2024::9:3:23</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<UseCaseStereoTypes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCaseStereoTypes>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		<IActor type="e">
+			<_id type="a">GUID 9a2ae37d-163e-4a04-9c85-08cfdaba4da4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">User</_name>
+			<_modifiedTimeWeak type="a">4.5.2024::8:59:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.5.2024::8:59:6</_modifiedTime>
+			<weakCGTime type="a">4.5.2024::8:59:6</weakCGTime>
+			<strongCGTime type="a">4.5.2024::8:59:6</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IActor>
+		<IActor type="e">
+			<_id type="a">GUID 9f888fe2-d1d2-4e9c-8fa8-5a490682f128</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ServicePerson</_name>
+			<_modifiedTimeWeak type="a">4.5.2024::8:59:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.5.2024::8:59:33</_modifiedTime>
+			<weakCGTime type="a">4.5.2024::8:59:33</weakCGTime>
+			<strongCGTime type="a">4.5.2024::8:59:33</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IActor>
 		
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
