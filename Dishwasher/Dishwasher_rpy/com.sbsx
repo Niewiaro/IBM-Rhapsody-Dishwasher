@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>Java</lang>
+	<BuildNo>202006101734</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID dbaf677f-31c0-450e-94e1-830ed1747bca</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">com</_name>
+			<_modifiedTimeWeak type="a">4.5.2024::8:47:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.5.2024::8:47:47</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">4.5.2024::8:47:47</weakCGTime>
+			<strongCGTime type="a">4.5.2024::8:47:16</strongCGTime>
+			<_defaultComposite type="s">GUID 7e2a5e70-a6d4-42b5-90d7-82b4c041f08a</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID fed82410-80b7-4f94-802f-abb2d44cfbd2</value>
+				<value>GUID 7e2a5e70-a6d4-42b5-90d7-82b4c041f08a</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">telelogic</fileName>
+			<_id type="a">GUID fed82410-80b7-4f94-802f-abb2d44cfbd2</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 7e2a5e70-a6d4-42b5-90d7-82b4c041f08a</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
